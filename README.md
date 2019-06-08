@@ -2,7 +2,9 @@
 
 ### GOAL : Algorithms to learn and excel in
 > Sieve of Eratosthenes, or another prime number sieve
+
 > Depth-first search
+
 > Breadth-first search
 > Dijkstra's algorithm
 > Floyd--Warshall algorithm
