@@ -20,3 +20,8 @@
 > Coordinate compression
 
 > Edmonds--Karp, or another implementation of the Ford--Fulkerson method; or a preflow-push algorithm; or, if you are preparing an ACM codebook, Dinic's algorithm. (Note: Max flow is not allowed to appear on the IOI, but may nevertheless appear on national team-selection contests)
+
+
+
+# Al Sweigart Recursion videos
+> https://www.youtube.com/results?search_query=al+sweigart+recursion
