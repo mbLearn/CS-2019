@@ -25,3 +25,7 @@
 
 # Al Sweigart Recursion videos
 > https://www.youtube.com/results?search_query=al+sweigart+recursion
+
+
+# ALgorithm Patterns
+> https://medium.com/@aahmad_49388/the-ultimate-strategy-to-preparing-for-the-coding-interview-ee9f7eb439f3
